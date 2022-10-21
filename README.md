@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infuman69" alt="infuman69" /></a> </p>
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=infuman69&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on **portfolio-website**
 
