@@ -35,4 +35,4 @@
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=infuman69&count_private=true&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=infuman691&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=infuman691&theme=tokyonight)](https://git.io/streak-stats)
