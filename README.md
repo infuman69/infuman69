@@ -35,6 +35,6 @@
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=infuman69&count_private=true&show_icons=true&theme=dark)
 
-<p align="center">
+<p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=infuman69&theme=tokyonight"/></a>
 </p>
