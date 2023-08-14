@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/infuman69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="infuman69" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=infuman69&count_private=true&show_icons=true&theme=dark)
