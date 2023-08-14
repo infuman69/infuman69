@@ -1,3 +1,5 @@
+![image](https://github.com/infuman69/infuman69/assets/81096719/20be431d-0498-4881-8e87-8d795c8b5db6)
+
 <h1 align="center">Hi 👋, I'm Soham Saha Roy</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 
