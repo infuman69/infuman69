@@ -3,21 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infuman69&label=Profile%20views&color=0e75b6&style=flat" alt="infuman69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infuman69" alt="infuman69" /></a> </p>
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=infuman69&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on **portfolio-website**
 
-- 🌱 I’m currently learning **Express,MongoDB,Flutter**
 
-- 👯 I’m looking to collaborate on **M.E.R.N Stack**
 
-- 💬 Ask me about **React,Javascript,CSS**
 
 - 📫 How to reach me **saharoy.soham123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ExDub--a02yX6mmXwPHASCKNG8af603gB6rP-lPAEWc/edit?usp=sharing](https://docs.google.com/document/d/1ExDub--a02yX6mmXwPHASCKNG8af603gB6rP-lPAEWc/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ExDub--a02yX6mmXwPHASCKNG8af603gB6rP-lPAEWc/edit?usp=sharing](https://drive.google.com/file/d/1Nu6UcFdcIboxlgigpHLHgBRe-1ibcRK9/view?usp=sharing)
 
 - ⚡ Fun fact **Always stalk people's Github Profile**
 
