@@ -1,7 +1,28 @@
 ![image](https://github.com/infuman69/infuman69/assets/81096719/20be431d-0498-4881-8e87-8d795c8b5db6)
 
-<h1 align="center">Hi 👋, I'm Soham Saha Roy</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+```javascript
+const soham = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Go", "C++", "Python",],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        FrontEnd: {
+            languages: ["Javascript"],
+            framework: ["React.js","Next.js"],
+            css:["tailwind","bootstrap"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongoDB", "MySql", "Postgres"],
+        misc: ["Firebase", "Supabase"]
+    },
+    architecture: ["Serverless Architecture","Single page applications"],
+    currentFocus: "Golang Supabase and DSA",
+    funFact: "Always stalk their github profile"
+};
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infuman69&label=Profile%20views&color=0e75b6&style=flat" alt="infuman69" /> </p>
 
